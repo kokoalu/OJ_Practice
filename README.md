@@ -1,1 +1,1 @@
-# OJ_Practice
+# OnlineJudge_Practice
